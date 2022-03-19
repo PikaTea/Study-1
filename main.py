@@ -1,2 +1,2 @@
 import os
-os.system('python function_70066006.py')
+os.system('python_function_70066004.py')
